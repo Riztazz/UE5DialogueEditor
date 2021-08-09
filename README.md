@@ -8,7 +8,7 @@ Current license requires you to correctly answer: "Is it possible you are a huma
 
 For new or existing complex multi-branching dialogues. But I guess it's better for new dialogues, the existing ones I used as a test are from Bioware. It also requires you to create your own plots data tables, some examples included, also from Bioware
 
-Dump it in your Plugin dir in your UE version when developing your project
+Dump it in your Plugin dir of your project folder, can be a UE 4 or 5 project
 
 e.g:
 China link
