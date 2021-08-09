@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "DialogueEditor",
+	"Description": "DialogueEditor",
+	"Category": "EditorModes",
+	"CreatedBy": "DHK",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "DialogueEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
